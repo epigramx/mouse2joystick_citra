@@ -77,7 +77,7 @@ angularDeadZone=0
 invertedX=0
 invertedY=1
 [Mouse2Joystick>Keys]
-joystickButtonKeyList=Space,LButton,q,e,Up,Down,Left,Right,RButton,MButton,Enter,RShift,4,5,g,w,s,a,d
+joystickButtonKeyList=Space,LButton,q,e,Up,Down,Left,Right,RButton,MButton,Enter,RShift,1,3,g,w,s,a,d
 autoHoldStickKey=
 fixRadiusKey=
 [KeyboardMovement>Keys]
@@ -1591,7 +1591,7 @@ exitKey=#q
 angularDeadZone=0
 invertedX=0
 invertedY=1
-joystickButtonKeyList=Space,LButton,q,e,Up,Down,Left,Right,Rbutton,Mbutton,Enter,Rshift,4,5,g,w,s,a,d
+joystickButtonKeyList=Space,LButton,q,e,Up,Down,Left,Right,Rbutton,Mbutton,Enter,Rshift,1,3,g,w,s,a,d
 autoHoldStickKey=
 fixRadiusKey=
 upKey=w
