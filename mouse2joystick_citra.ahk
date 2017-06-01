@@ -1,6 +1,6 @@
 ﻿;	;	;	;	;	;	;	;	;	;	;	;	;	;	;	;
 ;	Further modified for Citra by epigramx for the use in the guide: https://community.citra-emu.org/t/how-to-use-a-mouse-as-a-virtual-joystick-in-citra-in-order-to-control-a-camera-view-or-for-custom-mouse-input/1885
-version := "2017-06-01_1"
+version := "2017-06-01_2"
 ;
 ;	Modified for CEMU by: CemuUser8 (https://www.reddit.com/r/cemu/comments/5zn0xa/autohotkey_script_to_use_mouse_for_camera/)
 ;	Last Modified Date: 2017-05-31
@@ -187,7 +187,7 @@ reloadMenu:
 return
 
 aboutMenu:
-	Msgbox,32,About, Version: %version%`n`nModified for Citra by epigramx,`nbased on CemuUser8's modified mouse2joystick,`noriginally by Helgef 
+	Msgbox,32,About, mouse2joystick_citra`n`n`Version: %version%`n`nModified for Citra by epigramx,`nbased on CemuUser8's modified mouse2joystick,`noriginally by Helgef 
 return
 
 return
