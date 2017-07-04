@@ -1,5 +1,4 @@
-This software is completely free of charge. If however you found it useful,
-consider donating towards development with either of these three methods:
+If you found this repository useful, consider donating towards development with either of these three methods:
 
 Paypal: https://tinyurl.com/yb7pcw7y
 Bitcoin send address: 14VVVv2z6DusTqgftkuHyEN4p5R1GXBoMg
