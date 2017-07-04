@@ -5,3 +5,5 @@ This AutoHotkey script captures mouse motion and keyboard input for the use of t
 Tutorial/guide that details all the steps required: https://community.citra-emu.org/t/how-to-use-a-mouse-as-a-virtual-joystick-in-citra-in-order-to-control-a-camera-view-or-for-custom-mouse-input
 
 mouse2joystick_citra is based on mouse2joystick_custom_CEMU by CemuUser8 which was in turn based on the original mouse2joystick script by Helgef. Further details are in the .ahk file.
+
+If you found this repository useful, consider donating with either Paypal, Bitcoin or Monero (found in Donations.txt)
